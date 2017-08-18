@@ -1,0 +1,20 @@
+# Spring properties
+spring:
+  application:
+    name: student-management-system
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+    
+# Mongo properties
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: std_mgr_db
+
+
+# HTTP Server
+server:
+  port: 8080 # HTTP (Tomcat) port
