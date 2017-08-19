@@ -29,3 +29,7 @@ Run
 •	Run As > Java Application
 •	If asked, type "student-management-system" and click OK
 
+Database
+•	MongoDB
+  
+
